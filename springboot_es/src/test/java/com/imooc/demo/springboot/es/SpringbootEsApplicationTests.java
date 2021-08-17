@@ -2,7 +2,7 @@ package com.imooc.demo.springboot.es;
 
 import com.imooc.demo.springboot.es.entity.es.EsBlog;
 import com.imooc.demo.springboot.es.repository.es.EsBlogRepository;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
